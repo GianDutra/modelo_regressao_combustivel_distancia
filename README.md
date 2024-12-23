@@ -2,7 +2,7 @@
 
 ---
 
-<img src="./.github/1.png" alt="modelo_regressao_combustivel_distancia" title="Modelo de Regressão Combustível Distância">
+<img src="./.github/regressao_linear.png" alt="modelo_regressao_combustivel_distancia" title="Modelo de Regressão Combustível Distância">
 
 ---
 
