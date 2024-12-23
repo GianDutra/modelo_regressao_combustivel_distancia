@@ -2,6 +2,10 @@
 
 ---
 
+<img src="./.github/1.png" alt="modelo_regressao_combustivel_distancia" title="Modelo de Regressão Combustível Distância">
+
+---
+
 ## Tecnologias Utilizadas
 
 ### Linguagem de Programação
