@@ -1,4 +1,4 @@
-# Modelo + API: Prever Distância pelo Consumo de Gasolina | [Vídeo apresentação do Projeto](https://www.youtube.com/watch?v=scEeK9juXOQ) 
+# Modelo + API: Prever Distância pelo Consumo de Gasolina | [Vídeo apresentação do Projeto](https://www.youtube.com/watch?v=kCL8qGaCFFg)
 
 ---
 
