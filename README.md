@@ -2,7 +2,7 @@
 
 ---
 
-## Tecnologias
+## Tecnologias Utilizadas
 
 ### Linguagem de Programação
 
